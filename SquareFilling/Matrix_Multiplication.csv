@@ -1,0 +1,2 @@
+Block_Size(m=n),Matrix_1(m=n),Matrix_2(m=n),CPU_Time,GPU_Time
+2,1024,1024,298.871979,5562.000000
